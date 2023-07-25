@@ -1,0 +1,24 @@
+<form action="#">
+          <fieldset>
+            <legend></legend>
+            <p>
+              <label for=""></label>
+              <input type="" id="">
+            </p>
+            <p>
+              <label for=""></label>
+              <input type="" id="">
+            </p>
+          </fieldset>
+          <fieldset>
+            <legend></legend>
+            <p>
+              <label for=""></label>
+              <input type="" id="">
+            </p>
+            <p>
+              <label for=""></label>
+              <input type="" id="">
+            </p>
+          </fieldset>
+        </form>
