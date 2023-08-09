@@ -1,0 +1,13 @@
+.parent{
+    font-size:16px;
+    color:red;
+}
+.child{
+    font-size:80%; /* 16px * 0.8 = 12.8px */
+    color:red;
+}
+.child-to-child{
+    font-size:80%; /* 12.8px * 0.8 = 10.24px */
+    color:red;
+    line-height:1;
+}
